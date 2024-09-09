@@ -1,2 +1,2 @@
 # Google-Analytics-Bellabeat-CaseStudy
-This repository showcases an in-depth analysis for the Bellabeat case study, as part of the Google Data Analytics Capstone Project. The project focuses on analyzing user activity, steps, and sleep patterns using datasets from Fitabase.
+This repository showcases an in-depth analysis for the Bellabeat case study, as part of the Google Data Analytics Certification Capstone Project. The project focuses on analyzing user activity and sleep tracking data to discover trends and patterns using datasets from Fitabase. The EDA includes comprehensive data cleaning, SQL queries, data manipulation and detailed visualizations created using Tableau, Python, and R, all derived from Fitabase datasets.
